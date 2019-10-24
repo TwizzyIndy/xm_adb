@@ -21,4 +21,4 @@ python xiaomi_adb.py [arguments]
 -mtp_install_apk : install apk from mtp enabled recovery mode
 
 # Dependencies
-###[PyADB](https://github.com/cybojenix/PyAdb/)
+[PyADB](https://github.com/cybojenix/PyAdb/)
